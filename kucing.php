@@ -15,7 +15,7 @@ class RPL{
     }
 }
 $siswa1 = new RPL();
-$siswa1->nama = "nama";
+$siswa1->nama = "nam";
 $siswa1->alamat = "rumah";
 $siswa1->jk = "laki";
 $siswa1->agama = "islam";
